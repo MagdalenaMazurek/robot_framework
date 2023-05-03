@@ -1,0 +1,18 @@
+1683137330968	geckodriver	INFO	Listening on 127.0.0.1:49861
+1683137334040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49862" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mysza\\AppData\\Local\\Temp\\rust_mozprofileIyMYD1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683137334326	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683137334332	Marionette	INFO	Listening on port 49869
+Read port: 49869
+WebDriver BiDi listening on ws://127.0.0.1:49862
+1683137334445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mysza\\AppData\\Local\\Temp\\rust_mozprofileIyMYD1\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:49862/devtools/browser/1e2d61c1-05f8-4e77-a5c6-3b8071a040b0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scouts-test.futbolkolektyw.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scouts-test.futbolkolektyw.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scouts-test.futbolkolektyw.pl."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.

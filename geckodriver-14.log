@@ -1,0 +1,23 @@
+1683133890322	geckodriver	INFO	Listening on 127.0.0.1:65332
+1683133893361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65333" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mysza\\AppData\\Local\\Temp\\rust_mozprofileNpzdzV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683133893646	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683133893652	Marionette	INFO	Listening on port 65340
+Read port: 65340
+WebDriver BiDi listening on ws://127.0.0.1:65333
+1683133893765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mysza\\AppData\\Local\\Temp\\rust_mozprofileNpzdzV\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:65333/devtools/browser/392960e3-4605-4e84-9b58-341da4b78655
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scouts-test.futbolkolektyw.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scouts-test.futbolkolektyw.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scouts-test.futbolkolektyw.pl."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1683133899436	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
